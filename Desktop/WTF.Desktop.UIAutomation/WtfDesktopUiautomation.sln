@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("600bb105-47d9-4e7c-8f4c-dbd1618056fc") = "WtfDesktopUiautomation", "WtfDesktopUiautomation.csproj", "42c8f9e3-d652-4b7e-baa1-82a6cbc0de36"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		42c8f9e3-d652-4b7e-baa1-82a6cbc0de36.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		42c8f9e3-d652-4b7e-baa1-82a6cbc0de36.Debug|Any CPU.Build.0 = Debug|Any CPU
+		42c8f9e3-d652-4b7e-baa1-82a6cbc0de36.Release|Any CPU.ActiveCfg = Release|Any CPU
+		42c8f9e3-d652-4b7e-baa1-82a6cbc0de36.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,126 @@
+
+12:43:14.475 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+12:43:14.475:::8312 ----------------------------------------------------------
+12:43:14.475:::8312 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+12:43:14.475:::8312 ----------------------------------------------------------
+12:43:14.475:::8312 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+12:43:14.476:::8312 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+12:43:14.476:::8312 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+12:43:14.482:::8312 ----------------------------------------------------------
+12:43:14.482:::8312 |   apiClient.clientDisconnect() METHOD >>>>>>>
+12:43:14.482:::8312 ----------------------------------------------------------
+12:43:14.482:::8312 ERROR apiUtils.printMemory () : null data pointer  
+12:43:14.482:::8312 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+12:43:14.482:::8312 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+13:02:35.395 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+13:02:35.396:::22620 ----------------------------------------------------------
+13:02:35.396:::22620 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+13:02:35.396:::22620 ----------------------------------------------------------
+13:02:35.396:::22620 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+13:02:35.396:::22620 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+13:02:35.396:::22620 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+13:02:35.399:::22620 ----------------------------------------------------------
+13:02:35.399:::22620 |   apiClient.clientDisconnect() METHOD >>>>>>>
+13:02:35.399:::22620 ----------------------------------------------------------
+13:02:35.399:::22620 ERROR apiUtils.printMemory () : null data pointer  
+13:02:35.400:::22620 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+13:02:35.403:::22620 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+13:05:00.613 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+13:05:00.613:::6512 ----------------------------------------------------------
+13:05:00.613:::6512 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+13:05:00.613:::6512 ----------------------------------------------------------
+13:05:00.613:::6512 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+13:05:00.613:::6512 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+13:05:00.613:::6512 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+13:05:00.617:::6512 ----------------------------------------------------------
+13:05:00.617:::6512 |   apiClient.clientDisconnect() METHOD >>>>>>>
+13:05:00.617:::6512 ----------------------------------------------------------
+13:05:00.617:::6512 ERROR apiUtils.printMemory () : null data pointer  
+13:05:00.617:::6512 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+13:05:00.618:::6512 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+13:17:41.815 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+13:17:41.815:::37096 ----------------------------------------------------------
+13:17:41.815:::37096 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+13:17:41.815:::37096 ----------------------------------------------------------
+13:17:41.815:::37096 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+13:17:41.815:::37096 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+13:17:41.815:::37096 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+13:17:41.819:::37096 ----------------------------------------------------------
+13:17:41.819:::37096 |   apiClient.clientDisconnect() METHOD >>>>>>>
+13:17:41.819:::37096 ----------------------------------------------------------
+13:17:41.819:::37096 ERROR apiUtils.printMemory () : null data pointer  
+13:17:41.819:::37096 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+13:17:41.819:::37096 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+16:34:46.994 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+16:34:46.994:::1876 ----------------------------------------------------------
+16:34:46.994:::1876 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+16:34:46.995:::1876 ----------------------------------------------------------
+16:34:46.995:::1876 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+16:34:46.995:::1876 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+16:34:46.995:::1876 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+16:34:46.998:::1876 ----------------------------------------------------------
+16:34:46.998:::1876 |   apiClient.clientDisconnect() METHOD >>>>>>>
+16:34:46.998:::1876 ----------------------------------------------------------
+16:34:46.998:::1876 ERROR apiUtils.printMemory () : null data pointer  
+16:34:46.998:::1876 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+16:34:46.998:::1876 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+16:38:46.675 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+16:38:46.675:::4080 ----------------------------------------------------------
+16:38:46.676:::4080 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+16:38:46.676:::4080 ----------------------------------------------------------
+16:38:46.676:::4080 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+16:38:46.676:::4080 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+16:38:46.676:::4080 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+16:38:46.680:::4080 ----------------------------------------------------------
+16:38:46.680:::4080 |   apiClient.clientDisconnect() METHOD >>>>>>>
+16:38:46.680:::4080 ----------------------------------------------------------
+16:38:46.680:::4080 ERROR apiUtils.printMemory () : null data pointer  
+16:38:46.680:::4080 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+16:38:46.680:::4080 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+16:40:35.161 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+16:40:35.161:::19052 ----------------------------------------------------------
+16:40:35.161:::19052 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+16:40:35.161:::19052 ----------------------------------------------------------
+16:40:35.161:::19052 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+16:40:35.161:::19052 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+16:40:35.161:::19052 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+16:40:35.164:::19052 ----------------------------------------------------------
+16:40:35.165:::19052 |   apiClient.clientDisconnect() METHOD >>>>>>>
+16:40:35.165:::19052 ----------------------------------------------------------
+16:40:35.165:::19052 ERROR apiUtils.printMemory () : null data pointer  
+16:40:35.165:::19052 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+16:40:35.165:::19052 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+17:52:38.322 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+17:52:38.322:::27888 ----------------------------------------------------------
+17:52:38.322:::27888 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+17:52:38.322:::27888 ----------------------------------------------------------
+17:52:38.322:::27888 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+17:52:38.323:::27888 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+17:52:38.323:::27888 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+17:52:38.325:::27888 ----------------------------------------------------------
+17:52:38.325:::27888 |   apiClient.clientDisconnect() METHOD >>>>>>>
+17:52:38.325:::27888 ----------------------------------------------------------
+17:52:38.325:::27888 ERROR apiUtils.printMemory () : null data pointer  
+17:52:38.325:::27888 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+17:52:38.325:::27888 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
+
+18:08:33.950 09/17/2019 emuapi.dll version= 2, 1, 0, 3  buildDateAndTime= Jan 18 2010 14:53:44  computerName=L0PHMNL181134Y8  loggerThread= false 
+18:08:33.950:::6260 ----------------------------------------------------------
+18:08:33.950:::6260 |   apiClient.clientConnect() METHOD >>> appName= MySabre API Sample
+18:08:33.950:::6260 ----------------------------------------------------------
+18:08:33.950:::6260 >>>sync.getLockImpl(), lock= 0, name= apiClientMutex 
+18:08:33.951:::6260 ERROR <<<sync.getLockImpl(), retcode= -4 SYNC_MUTEX_NOT_FOUND, lock= 0, name= apiClientMutex 
+18:08:33.951:::6260 ERROR <<<apiClient.clientConnect(), getClientCommonLock failed, retcode= 3 API_UNAVAILABLE 
+18:08:33.952:::6260 ----------------------------------------------------------
+18:08:33.952:::6260 |   apiClient.clientDisconnect() METHOD >>>>>>>
+18:08:33.952:::6260 ----------------------------------------------------------
+18:08:33.952:::6260 ERROR apiUtils.printMemory () : null data pointer  
+18:08:33.953:::6260 ERROR apiClient.clientDisconnect () : g_lock.lock was NULL, must not currently be connected, abort clientDisconnect() 
+18:08:33.953:::6260 ERROR apiClient.clientDisconnect () : returns with retcode 1 SM_FAILURE 
